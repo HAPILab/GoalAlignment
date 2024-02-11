@@ -1,0 +1,6 @@
+(board f1 p0)
+(board f3 p1)
+(board f5 p2)
+(depart f0 p2)
+(depart f0 p1)
+(depart f0 p0)

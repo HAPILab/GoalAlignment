@@ -1,0 +1,3 @@
+(stack b a)
+(stack c b)
+(stack d c)
