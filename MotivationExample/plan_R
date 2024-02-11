@@ -1,0 +1,3 @@
+(grab_tealeaves normalquality)
+(make_tea normalquality)
+; cost = 2 (unit cost)

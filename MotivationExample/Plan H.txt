@@ -1,0 +1,6 @@
+(grab_tealeaves normalquality)
+(make_tea normalquality)
+(bring_ladder)
+(climb_ladder)
+(reach_ladder_tealeaves goodquality)
+(make_tea goodquality)

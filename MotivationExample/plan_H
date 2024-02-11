@@ -1,0 +1,5 @@
+(bring_ladder )
+(climb_ladder )
+(reach_ladder_tealeaves goodquality)
+(make_tea goodquality)
+; cost = 4 (unit cost)
