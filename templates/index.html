@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{%block head %}
+<title>RADAR</title>
+<h1>File upload</h1>
+{%endblock%}
+
+{% block body%}
+<br><br>Please upload the domain and the problem files<br><br>
+<form action = "http://localhost:5000/uploader" method="post" enctype = "multipart/form-data">
+    Domain File <input name="Domain_file", type="file"><br>
+    Problem File<input name="Problem_file", type="file"><br>
+    SUBMIT<input type="submit">
+
+</form>
+
+{% endblock %}
